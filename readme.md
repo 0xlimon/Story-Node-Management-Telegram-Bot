@@ -5,7 +5,7 @@ A comprehensive Telegram bot for managing and monitoring Story nodes, providing 
 ![Screenshot 2024-10-20 125952](https://github.com/user-attachments/assets/780c0565-b5d3-4a1e-99e0-7e81e13ed633)
 
 ## 📑 Table of Contents
-
+ 
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
