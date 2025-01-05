@@ -84,7 +84,7 @@ Description=Story Telegram Bot Service
 After=network.target
 
 [Service]
-ExecStart=/usr/bin/python3 ${BOT_DIR}/src/bot/main.py
+ExecStart=/usr/bin/python3 ${BOT_DIR}/bot.py
 WorkingDirectory=${BOT_DIR}
 Restart=always
 User=root
